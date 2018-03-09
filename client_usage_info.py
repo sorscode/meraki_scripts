@@ -100,7 +100,6 @@ def main():
     get_client_info()
     #print_client_info()
     filter_data()
-    #print(filtered)
     output_client_csv()
 
 main()
